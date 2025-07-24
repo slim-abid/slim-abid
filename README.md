@@ -44,11 +44,6 @@ I'm a passionate software developer who loves building efficient and scalable so
   
 </div>
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -60,8 +55,6 @@ I'm a passionate software developer who loves building efficient and scalable so
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=slim-abid&label=Profile%20views&color=0e75b6&style=flat)
   
   ⭐️ From [slim-abid](https://github.com/slim-abid)
   
