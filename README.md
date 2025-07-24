@@ -32,18 +32,8 @@ I'm a passionate software developer who loves building efficient and scalable so
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slim-abid&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slim-abid&theme=radical&hide_border=true)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slim-abid&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=slim-abid&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
 </div>
 
 ## 📈 Contribution Graph
